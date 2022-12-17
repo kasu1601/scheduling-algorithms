@@ -1,0 +1,9 @@
+
+README
+
+The objective of this programme is to simulate disk scheduling algorithms and utilize multi-threading concept to run the schedulers concurrently.
+
+- Run make
+- Then ./simulator in the terminal to start the program, type QUIT to exit the program.
+
+NOTE - input and input1 are two data samples.
